@@ -43,5 +43,7 @@ public class PlayerMovement : MonoBehaviour
         else{
             anim.SetBool("Running", false);
         }
+        
+        
     }
 }
